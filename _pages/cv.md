@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* __Ph.D__ Biostatistics, Western University
-* __M.MATH__ Applied Mathematics, University of Waterloo, 2016
-* __B.Sc__ Applied Mathematics, Western University, 2014
+* __M.Sc.__ Biostatistics, Brown University, (expected 2023)
+* __B.Sc__ Biostatistics, Jomo Kenyatta University, 2021
 
 Technical Skills
 ======
-* Python
+* SAS
 * R
-* SQL (Postgres and SQLite)
-* Stan
+* MySQL
+* Stata
 
 Publications
 ======
