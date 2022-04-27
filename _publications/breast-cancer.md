@@ -19,13 +19,13 @@ Library database, EMBASE and PubMed databases for papers published up to Februar
 2019.
 
 Identified studies were analysed for quality using the Newcastle-Ottawa Scale. Effect
-sizes were visualised using funnel plots. Study heterogeneity was quantified using I2
+sizes were visualised using funnel plots. Study heterogeneity was quantified using I^2
 and visualised using Baujat plots. Publication prejudice was evaluated using Eggers
 regression model, with visualisations using funnel plots.
 Eight cohort studies met the inclusion criteria. 
-Random-effects model revealed nonstatistically significant evidence of an association between short or long sleep and breast cancer Odds Ratio (OR) = 0.90;(95% CI 0.79–1.02) and OR=0.95 (0.88–1.02)respectively. There was moderate to high heterogeneity I2 (95% CI)=74.40% (48.20–
+Random-effects model revealed nonstatistically significant evidence of an association between short or long sleep and breast cancer Odds Ratio (OR) = 0.90;(95% CI 0.79–1.02) and OR=0.95 (0.88–1.02)respectively. There was moderate to high heterogeneity I^2 (95% CI)=74.40% (48.20–
 87.40%) among studies examining short sleep and breast cancer, and low to moderate
-heterogeneity in studies for long sleep and breast cancer I2 (95% CI)=3.0% (0.00–
+heterogeneity in studies for long sleep and breast cancer I^2 (95% CI)=3.0% (0.00–
 68.60%).
 
 This study found non-substantial evidence of associations between sleeping periods
