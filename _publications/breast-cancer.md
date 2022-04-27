@@ -5,7 +5,7 @@ permalink: /publication/2020-04-29-paper-one
 excerpt: ''
 date: 2020-04-29
 venue: 'Reinvention: an International Journal of Undergraduate Research'
-paperurl: <a href="https://doi.org/10.31273/reinvention.v13i1.530" style="text-decoration-style: none;">custom link</a>
+paperurl: 'https://doi.org/10.31273/reinvention.v13i1.530'
 citation: 'Okutse, A. O. (2020). The Impact of Sleeping Duration on the Risk of Breast Cancer: A systematic review and meta-analysis of population-based cohort studies. <i>Reinvention: an International Journal of Undergraduate Research, 13</i>(1).'
 ---
 **Keywords:** Breast cancer; sleep duration and breast cancer; systematic review; metaanalysis of breast cancer studies; population-based cohort studies.
