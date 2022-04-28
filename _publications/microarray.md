@@ -46,6 +46,6 @@ The genes found in this study could provide useful insight
 into understanding the association between the identified DEGs and primary bladder cancer
 survival, which can further inform future studies and clinical therapies.
 
-[Download Paper](https://okutse.github.io/files/paper-two.pdf)
-
-[R Script](https://okutse.github.io/blob/main/files/paper-two-RSurv.R)
+[Download Paper](https://okutse.github.io/files/paper-two.pdf) <br>
+[R Script](https://github.com/okutse/okutse.github.io/blob/main/files/paper-two-RSurv.R) <br>
+[View Markdown Notebook](https://github.com/okutse/okutse.github.io/blob/main/files/paper-two-RSurv.Rmd)
