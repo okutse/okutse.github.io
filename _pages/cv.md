@@ -40,4 +40,4 @@ Teaching
   {% endfor %}</ul>
 
 
-[PDF Version](http://dpananos.github.io/files/DEMETRI_CV.pdf)
+[PDF Version](http://okutse.github.io/files/amos_cv.pdf)
