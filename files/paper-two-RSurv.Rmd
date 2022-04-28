@@ -1,0 +1,76 @@
+---
+title: "Modelling survival in primary bladder cancer patients using differentially expressed genes (DEGs)"
+author: 
+ - "Amos Okutse"
+date: "  `r format(Sys.time(), '%d %B, %Y')` "
+output:
+  tufte::tufte_html:
+  tufte::tufte_handout: 
+  #  highlight: pygments
+  #  toc_depth: 5
+  # number_sections: true
+  #html_document:
+  #  mathjax: "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS_CHTML.js"
+  #  self_contained: false  
+  #  toc: true
+  #  toc_depth: 5
+  #  number_sections: true
+#bibliography: references.bib
+#citation_package: natbib
+#link-citations: yes
+---
+
+```{r setup, include=FALSE}
+options(java.parameters = "-Xmx15g")
+
+knitr::opts_chunk$set(warning=FALSE,
+                      message=FALSE,
+                      echo=F,
+                      dpi=300,
+                      error=FALSE)
+ 
+# Evaluate the figure caption after the plot
+#knitr::opts_knit$set(eval.after='fig.cap')
+ 
+# Use the table counter that the htmlTable() provides
+options(table_counter = TRUE)
+ 
+# Use the figCapNo() with roman letters
+#options(fig_caption_no_roman = TRUE)
+#options(kableExtra.latex.load_packages = F)
+
+# Then install the Grmd-package by running below code:
+#devtools::install_github("gforge/Grmd")
+
+
+# function to install missing packages
+ipak <- function(pkg){
+  new.pkg <- pkg[!(pkg %in% installed.packages()[, "Package"])]
+  if (length(new.pkg))
+    install.packages(new.pkg, dependencies = TRUE, repos='http://cran.rstudio.com/')
+  sapply(pkg, require, character.only = TRUE)
+}
+
+#install.packages('package_name', dependencies=TRUE, repos='http://cran.rstudio.com/')
+
+packages =c( "tidyverse","knitr", "kableExtra","skimr", "MatchIt", "RItools","optmatch", "ggplot2", "tufte", "tufterhandout", "fontawesome", "icons")
+
+ipak(packages)
+```
+
+
+<br>
+
+<br>
+
+Sorry, this page is still a work in progress. In the meantime, you can read the paper^[Okutse, A., & Nyongesa, K. (2021). Differential Expression Analysis for the Identification of Survival Associated Genes in Primary Bladder Cancer using Microarray Data. International Journal of Undergraduate Research and Creative Activities, 13(1)].
+
+I'll update soon!
+
+
+
+
+
+
+
+
