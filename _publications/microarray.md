@@ -48,4 +48,4 @@ survival, which can further inform future studies and clinical therapies.
 
 [Download Paper](https://okutse.github.io/files/paper-two.pdf) <br>
 [R Script](https://github.com/okutse/okutse.github.io/blob/main/files/paper-two-RSurv.R) <br>
-[View Markdown Notebook](https://okutse.github.io/survival_analysis/)
+[View Markdown Notebook](https://okutse.github.io/survival_analysis/) 
