@@ -1,7 +1,6 @@
-##A Naïve Bayes Probabilistic Classifier for Modelling the Quality of Care in End of Life Patients
-
-##Amos Ochieng Okutse
-
+## A Naïve Bayes Probabilistic Classifier for Modelling the Quality of Care in End of Life Patients
+## Amos Ochieng Okutse
+## An Undergraduate Project
 ##Jomo Kenyatta University of Agriculture & Technology
 ##########################################################
 ##Exploratory Data Analysis
