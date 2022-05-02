@@ -23,5 +23,5 @@ The Naïve Bayes classifier yielded an accuracy of 77%;95%CI (0.5774, 0.9138). T
 The implementation of quality assessment systems in health is likely to drive efficiency in terms of patient care.
 
 [Download Paper](https://m.grin.com/document/535799) <br>
-[R Script](https://github.com/okutse/okutse.github.io/blob/main/files/paper-two-RSurv.R) <br>
+[R Script](https://github.com/okutse/okutse.github.io/blob/main/files/modelling%20quality%20of%20care.R) <br>
 [View Markdown Notebook](https://okutse.github.io/) 
