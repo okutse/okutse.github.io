@@ -1,3 +1,4 @@
+<!--
 ---
 title: "University of Waterloo"
 collection: teaching
@@ -18,3 +19,5 @@ I performed teaching assistant duties for various courses in the applied mathema
 * Applied Mathematics 250 (Introduction to Differential Equations) Spring 2015, Winter 2015
 
 <sup>1</sup> Nominated for Teaching Assistant Award by students.
+
+-->
