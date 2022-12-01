@@ -41,4 +41,3 @@ Teaching
 
 
 [PDF Version](http://okutse.github.io/files/amos_cv.pdf)
-<!https://github.com/okutse/okutse.github.io/blob/main/files/amos_cv.pdf -->
