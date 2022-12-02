@@ -12,12 +12,12 @@ location: "Providence, RI"
 
 This is a collaborative project with Dr. Ernest Julian (Co-chair with the Centers for Disease Control and Prevention [CDC] and the Food and Drugs Administration [FDA] of the Healthy People 2030 Foodborne Illness Reduction Committee). In the project, we use statistical machine methods for multiclass classification including Random forests, Naïve Bayes Classification, and Bayesian Additive Regression Trees (BART) to predict the food source of a 
 *Listeria monocytogene* strain and isolate to propose a robust and throughput predictive framework for 
-driving action in the fight against foodborne illnesses using data from the National Center for Biotechnology Information (NCBI) Pathogen Detection Database. <br>
-##
-**Keywords:** Food source attribution, Multiclass classification, Machine Learning, Random Forests, Naive Bayes Classification,*Listeria monocytogenes*, Bayesian Additive Regression Trees (BART), Foodborne illness, Pathogen prediction, United States. <br>
+driving action in the fight against foodborne illnesses using data from the National Center for Biotechnology Information (NCBI) Pathogen Detection Database.
+<hr>
+**Keywords:** Food source attribution, Multiclass classification, Machine Learning, Random Forests, Naive Bayes Classification,*Listeria monocytogenes*, Bayesian Additive Regression Trees (BART), Foodborne illness, Pathogen prediction, United States.
 ## Collaborators:
 [Amos Okutse](mailto:amos_okutse@brown.edu) <br>
 [Zexhuan Yu](mailto:zexhuan_yu@brown.edu) <br>
 [Rophence Ojiambo](mailto:rophence_ojiambo@brown.edu) <br>
-## 
+<hr> 
 [Explore Code](https://github.com/okutse/foodborne_diseases)
