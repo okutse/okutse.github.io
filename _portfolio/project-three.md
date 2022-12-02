@@ -15,6 +15,7 @@ This is a collaborative project with Dr. Ernest Julian (Co-chair with the Center
 driving action in the fight against foodborne illnesses using data from the National Center for Biotechnology Information (NCBI) Pathogen Detection Database.
 <hr>
 **Keywords:** Food source attribution, Multiclass classification, Machine Learning, Random Forests, Naive Bayes Classification,*Listeria monocytogenes*, Bayesian Additive Regression Trees (BART), Foodborne illness, Pathogen prediction, United States.
+
 ## Collaborators:
 [Amos Okutse](mailto:amos_okutse@brown.edu) <br>
 [Zexhuan Yu](mailto:zexhuan_yu@brown.edu) <br>
