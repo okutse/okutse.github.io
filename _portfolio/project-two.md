@@ -2,7 +2,7 @@
 title: "Bayesian Learning Artificial Neural Networks for Modeling Survival Outcomes using Microarray Gene Expression Data"
 collection: talks
 type: "Talk"
-permalink: /talks/project_two
+permalink: /talks/project-two
 venue: "Providence, RI"
 date: 2022-05-14
 location: "Providence, RI"
