@@ -1,5 +1,5 @@
 ---
-title: "Statistical Machine Learning Methods for Listeria Monocytogene foodborne disease source attribution"
+title: "Statistical Machine Learning Methods for *Listeria Monocytogene* foodborne disease source attribution"
 collection: talks
 type: "Talk"
 permalink: /talks/project_three
