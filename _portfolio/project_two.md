@@ -1,5 +1,5 @@
 ---
-title: "Simulating Infectious Disease Dynamics using Discrete Compartmental Models"
+title: "Bayesian Learning Artificial Neural Networks for Modeling Survival Outcomes using Microarray Gene Expression Data"
 collection: talks
 type: "Talk"
 permalink: /talks/project_two
@@ -8,19 +8,18 @@ date: 2021-09-05
 location: "Providence, RI"
 ---
 
-## Project Summary:
+## Project summary:
 
-In this collaborative project, we develop  a dynamic and interactive web-based application using Shiny Dashboards and the R statistical programming environment to simulate infectious disease dynamics using discrete compartmental models including the SI, SIR, and SEIR. The application provides an interactive interface for modeling and visualizing trends of infectious diseases, and allows data download given parameters including the type of model to simulate, the infection rate, the total susceptible population, the total number infected, rate of recovery, total number recovered, total population exposed, the simulation time (in days), and also explores the effect of an intervention e.g., vaccination on the subsequent trends in the disease dynamics.  
+In this extension project, we developed an instructive, introductory extension post using the R statistical programming environment, Python, HTML, and gene expression profiles data from patients with primary bladder cancer downloaded from the Gene Expression Omnibus (GEO) to show how Bayesian inference can be applied in modeling survival outcomes in patients with primary bladder cancer using single-layer artificial neural networks with Bayesian Learning. You can read the full post [here]( 
+https://okutse.github.io/bayesian-networks/).
 
-## Explore the dashboard:
+##
 
-The interactive app can be explored [here](https://idiseases.shinyapps.io/indiseases/) <br>
-**Keywords:** SI, SIR, SEIR, Infectious disease modeling, compartmental models, simulation methods, Programming in R.<br>
+**Keywords:** Bayesian artificial neural networks, Survival modeling, Primary bladder cancer, Gene expression profiles, Micro-array data, Gene expression Omnibus (GEO), R, Python, Extension post. <br>
 
-## Collaborators
-[Amos Okutse](amos_okutse@brown.edu) <br>
-[Yingjie Zhou](yingjie_zhou@brown.edu) <br>
-[Kyla Finlayson](kyla_finlayson@brown.edu) <br>
+## Collaborators:
+[Amos Okutse](mailto:amos_okutse@brown.edu) <br>
+[Naomi Lee](mailto:naomi_lee1@brown.edu) <br>
 
 ## 
-[Explore R Code](https://github.com/okutse/modeling)
+[Explore R Code](https://github.com/okutse/bayesian-networks)
