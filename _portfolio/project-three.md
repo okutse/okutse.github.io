@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/project-three
 venue: "Providence, RI"
-date: 2022-12-15
+date: 2022-12-02
 location: "Providence, RI"
 ---
 
