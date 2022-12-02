@@ -3,7 +3,7 @@ title: "A Naïve Bayes’ Probabilistic Classifier for Modeling the Quality of C
 collection: publications
 permalink: /publication/2020-paper-three
 excerpt: ''
-date: 2020
+date: 2020-04-29
 venue: 'GRIN Verlag'
 paperurl: 'https://m.grin.com/document/535799'
 citation: 'Okutse, A. O. (2020). A Naïve Bayes’ Probabilistic Classifier for Modeling the Quality of Care in a Healthcare Setting. <i>GRIN Verlag</i>. ISBN: 978-3-346-14278-8.'
