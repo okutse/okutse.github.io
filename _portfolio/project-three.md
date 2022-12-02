@@ -2,17 +2,17 @@
 title: "Statistical Machine Learning Methods for *Listeria Monocytogene* foodborne disease source attribution"
 collection: talks
 type: "Talk"
-permalink: /talks/project_three
+permalink: /talks/project-three
 venue: "Providence, RI"
 date: 2022-12-15
 location: "Providence, RI"
 ---
 
-## Project summary:
+## Project Summary:
 
 This is a collaborative project with Dr. Ernest Julian (Co-chair with the Centers for Disease Control and Prevention [CDC] and the Food and Drugs Administration [FDA] of the Healthy People 2030 Foodborne Illness Reduction Committee). In the project, we use statistical machine methods for multiclass classification including Random forests, Naïve Bayes Classification, and Bayesian Additive Regression Trees (BART) to predict the food source of a 
 *Listeria monocytogene* strain and isolate to propose a robust and throughput predictive framework for 
-driving action in the fight against foodborne illnesses using data from the National Center for Biotechnology Information (NCBI) Pathogen Detection Database.<br>
+driving action in the fight against foodborne illnesses using data from the National Center for Biotechnology Information (NCBI) Pathogen Detection Database. <br>
 ##
 **Keywords:** Food source attribution, Multiclass classification, Machine Learning, Random Forests, Naive Bayes Classification,*Listeria monocytogenes*, Bayesian Additive Regression Trees (BART), Foodborne illness, Pathogen prediction, United States. <br>
 ## Collaborators:
