@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/project_two
 venue: "Providence, RI"
-date: 2021-09-05
+date: 2021-05-14
 location: "Providence, RI"
 ---
 
@@ -20,6 +20,5 @@ https://okutse.github.io/bayesian-networks/).
 ## Collaborators:
 [Amos Okutse](mailto:amos_okutse@brown.edu) <br>
 [Naomi Lee](mailto:naomi_lee1@brown.edu) <br>
-
 ## 
 [Explore R Code](https://github.com/okutse/bayesian-networks)
