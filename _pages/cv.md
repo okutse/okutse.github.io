@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* __M.Sc.__ Biostatistics, Brown University, (expected 2023)
+* __PhD__ Biostatistics, Brown University, (expected 2029)
+* __M.Sc.__ Biostatistics, Brown University, 2023
 * __B.Sc__ Biostatistics, Jomo Kenyatta University, 2021
 
 Technical Skills
@@ -20,6 +21,7 @@ Technical Skills
 * R
 * MySQL
 * Stata
+* Python
 
 Publications
 ======
