@@ -15,4 +15,4 @@ I am available for private statistical consulting. In areas, including: but not 
 * Communication of results to non-expert audiences (including writing manuscripts for publication), and
 * Responding to reviewer requests.
 
-If you need help with statistics of any kind, I'm always open to lend a hand.  Please feel free to reach out at amosokutse [at] gmail [dot] com.
+If you need help with statistics of any kind, I'm always open to lend a hand.  Please feel free to reach out at okutseamos [at] gmail [dot] com.
