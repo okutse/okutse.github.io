@@ -10,7 +10,7 @@ location: "Providence, RI"
 
 ## Project Summary:
 
-In this extension project, we developed an instructive, introductory extension post using the R statistical programming environment, Python, HTML, and gene expression profiles data from patients with primary bladder cancer downloaded from the Gene Expression Omnibus (GEO) to show how Bayesian inference can be applied in modeling survival outcomes in patients with primary bladder cancer using single-layer artificial neural networks with Bayesian Learning. You can read the full post [here](https://okutse.github.io/bayesian-networks/).
+In this extension project, we developed an instructive, introductory extension post using the R statistical programming environment, Python, HTML, and gene expression profile data from patients with primary bladder cancer downloaded from the Gene Expression Omnibus (GEO) to show how Bayesian inference can be applied in modeling survival outcomes in patients with primary bladder cancer using single-layer artificial neural networks with Bayesian Learning. You can read the full post [here](https://okutse.github.io/bayesian-networks/).
 
 <hr>
 
