@@ -26,5 +26,4 @@ Under the mentorship of Professor [Alice Paul](https://alicepaul.github.io/index
   * The TC Program is a semester-long learning community for graduate students and postdocs where participants deepen their knowledge of evidence-based inclusive teaching practices and develop skills in workshop facilitation, online teaching, and providing feedback.
 
 ## Guest Lecturer: _Optimization Methods: Gradient Descent, Newton's Methods, Expectation Maximization (EM), and Markov Chain Monte Carlo Methods (MCMC),_ HDS 821 Big Data Analytics, Moi University, Eldoret, Kenya, Summer 2024
-
-## 
+ 
