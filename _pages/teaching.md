@@ -19,10 +19,12 @@ Under the mentorship of Professor [Alice Paul](https://alicepaul.github.io/index
   * Assisted in preparing course materials for regression methods for causal inference.
   * Collaborated with the primary instructor in preparing lab materials for regression methods for causal inference using R and RStudio.
 
-## Guest Lecture: _Regression Methods for Causal Inference_, PHP 1511 Regression Analysis, Brown University, Spring 2023
+## Guest Lecturer: _Regression Methods for Causal Inference_, PHP 1511 Regression Analysis, Brown University, Spring 2023
 
 ## Teaching Consultant, The Harriet W. Sheridan Center for Teaching and Learning, Brown University, Fall 2024
 
   * The TC Program is a semester-long learning community for graduate students and postdocs where participants deepen their knowledge of evidence-based inclusive teaching practices and develop skills in workshop facilitation, online teaching, and providing feedback.
 
-## Guest Lecture: _Optimization Methods: Gradient Descent, Newton's Methods, Expectation Maximization (EM), and Markov Chain Monte Carlo Methods (MCMC),_ HDS 821 Big Data Analytics, Moi University, Eldoret, Kenya, Summer 2024
+## Guest Lecturer: _Optimization Methods: Gradient Descent, Newton's Methods, Expectation Maximization (EM), and Markov Chain Monte Carlo Methods (MCMC),_ HDS 821 Big Data Analytics, Moi University, Eldoret, Kenya, Summer 2024
+
+## 
